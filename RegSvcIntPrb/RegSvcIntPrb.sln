@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegSvcIntPrb", "RegSvcIntPrb\RegSvcIntPrb.csproj", "{D88E9FD8-6128-4CDF-AB25-8E48E67E13ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegSvcIntPrbTests", "RegSvcIntPrbTests\RegSvcIntPrbTests.csproj", "{88B43632-EE7D-432A-AE30-8156B45E4881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D88E9FD8-6128-4CDF-AB25-8E48E67E13ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D88E9FD8-6128-4CDF-AB25-8E48E67E13ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D88E9FD8-6128-4CDF-AB25-8E48E67E13ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B43632-EE7D-432A-AE30-8156B45E4881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B43632-EE7D-432A-AE30-8156B45E4881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B43632-EE7D-432A-AE30-8156B45E4881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B43632-EE7D-432A-AE30-8156B45E4881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
