@@ -376,3 +376,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrb.deps.json
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrb.dll
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrb.pdb
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/ref/RegSvcIntPrbTests.dll
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/refint/RegSvcIntPrbTests.dll
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/RegSvcIntPrbTests.assets.cache
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/project.assets.json
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/project.nuget.cache
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/RegSvcIntPrbTests.csproj.nuget.dgspec.json
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/RegSvcIntPrbTests.csproj.nuget.g.props
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/RegSvcIntPrbTests.csproj.nuget.g.targets
