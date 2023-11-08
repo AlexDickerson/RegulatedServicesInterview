@@ -15,8 +15,8 @@ namespace RegSvcIntProbTests
 
         public static void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<ICloudResourceService, CloudResourceService>();
-            services.AddSingleton<ICloudResourceService, CloudResourcesService>();
+            services.AddSingleton<ICloudResourceService, CloudResourceServiceOne>();
+            services.AddSingleton<ICloudResourceService, CloudResourceServiceTwo>();
         }
 
         public static void Configure()

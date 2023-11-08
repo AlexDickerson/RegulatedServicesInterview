@@ -1,6 +1,6 @@
 ﻿namespace RegSvcsIntProb.Resources
 {
-    public class CloudResourcesService : ICloudResourceService
+    public class CloudResourceServiceTwo : ICloudResourceService
     {
         public async Task<bool> ReplaceResource(CloudResource resource1, CloudResource resource2)
         {

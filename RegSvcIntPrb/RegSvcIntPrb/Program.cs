@@ -46,8 +46,8 @@ namespace RegSvCIntProb
 
         private static void RegisterServices(this IServiceCollection services)
         {
-            services.AddSingleton<ICloudResourceService, CloudResourceService>();
-            services.AddSingleton<ICloudResourceService, CloudResourcesService>();
+            services.AddSingleton<ICloudResourceService, CloudResourceServiceOne>();
+            services.AddSingleton<ICloudResourceService, CloudResourceServiceTwo>();
         }
     }
 }
