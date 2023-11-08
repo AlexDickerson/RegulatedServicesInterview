@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrbTests.deps.json
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrbTests.dll
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrbTests.pdb
+/RegSvcIntPrb/RegSvcIntPrbTests/bin/Debug/net7.0/RegSvcIntPrbTests.runtimeconfig.json
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/RegSvcIntPrbTests.csproj.CoreCompileInputs.cache
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/RegSvcIntPrbTests.csproj.AssemblyReference.cache
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/RegSvcIntPrbTests.csproj.FileListAbsolute.txt
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/RegSvcIntPrbTests.dll
+/RegSvcIntPrb/RegSvcIntPrbTests/obj/Debug/net7.0/RegSvcIntPrbTests.pdb
+/.vs/slnx.sqlite
