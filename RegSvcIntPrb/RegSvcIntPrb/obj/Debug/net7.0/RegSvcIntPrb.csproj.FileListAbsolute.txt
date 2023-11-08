@@ -1,0 +1,14 @@
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\bin\Debug\net7.0\RegSvcIntPrb.exe
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\bin\Debug\net7.0\RegSvcIntPrb.deps.json
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\bin\Debug\net7.0\RegSvcIntPrb.runtimeconfig.json
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\bin\Debug\net7.0\RegSvcIntPrb.dll
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\bin\Debug\net7.0\RegSvcIntPrb.pdb
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.AssemblyInfoInputs.cache
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.AssemblyInfo.cs
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.csproj.CoreCompileInputs.cache
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.dll
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\refint\RegSvcIntPrb.dll
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.pdb
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\RegSvcIntPrb.genruntimeconfig.cache
+C:\Users\aldicke\source\repos\RegulatedServicesInterview\RegSvcIntPrb\RegSvcIntPrb\obj\Debug\net7.0\ref\RegSvcIntPrb.dll
