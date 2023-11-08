@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RegSvcIntPrb": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_CLIENT_ID": "ad304010-dac2-4187-ad58-ba9c3e49b311",
+        "AZURE_TENANT_ID": "dae34b29-9e17-49e0-87ac-4e81f21d4ffa",
+        "AZURE_CLIENT_SECRET": "test"
+      }
+    }
+  }
+}

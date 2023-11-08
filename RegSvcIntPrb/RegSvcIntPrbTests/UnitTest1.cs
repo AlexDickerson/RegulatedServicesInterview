@@ -42,7 +42,7 @@ namespace RegSvcIntProbTests
         public async Task BigTest3()
         {
             Environment.SetEnvironmentVariable("AZURE_CLIENT_ID", "ad304010-dac2-4187-ad58-ba9c3e49b311");
-            Environment.SetEnvironmentVariable("AZURE_CLIENT_SECRET", "");
+            Environment.SetEnvironmentVariable("AZURE_CLIENT_SECRET", "test");
             Environment.SetEnvironmentVariable("AZURE_TENANT_ID", "dae34b29-9e17-49e0-87ac-4e81f21d4ffa");
             Problem3 problem3 = new();
             var success = await problem3.Run();
